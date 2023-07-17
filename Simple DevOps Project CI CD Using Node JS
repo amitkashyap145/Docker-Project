@@ -1,0 +1,9 @@
+Steps 1 - Install Node Js on Ubuntu Machine
+
+sudo apt update
+
+sudo apt install nodejs
+
+sudo apt install npm
+
+nodejs -v  // To check the node JS version 
